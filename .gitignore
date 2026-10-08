@@ -1,0 +1,14 @@
+target/
+*.log
+
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+.vscode/*
+!.vscode/tasks.json
+
+.DS_Store
+Thumbs.db

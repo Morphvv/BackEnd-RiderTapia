@@ -1,0 +1,5 @@
+package com.ridertapia.inventario.model;
+
+public enum TipoMovimiento {
+    INGRESO, VENTA_WEB, VENTA_TIENDA, USO_TALLER, AJUSTE, DEVOLUCION_CLIENTE, DEVOLUCION_PROVEEDOR, RESERVA, LIBERACION_RESERVA
+}
